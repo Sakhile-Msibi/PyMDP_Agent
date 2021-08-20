@@ -1,4 +1,4 @@
-## Matcha
+## PyMDP Agent
 <p align="center">
   <img src="./gridWorld" width="90%"/>
 </p>
